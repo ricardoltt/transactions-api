@@ -85,15 +85,16 @@ npm test
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ricardoltt">
+  <a target=”_blank” href="https://www.linkedin.com/in/ricardoltt">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
-  <a href="mailto:ricardo.ltemoteo@gmail.com">
+  <a target=”_blank” href="mailto:ricardo.ltemoteo@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
-  <a href="https://github.com/ricardoltt">
+  <a target=”_blank” href="https://github.com/ricardoltt">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-<div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=ricardoltt.transactions-api" alt="visitor badge"/></div>
+
+<div align="center">[![HitCount](https://hits.dwyl.com/ricardoltt/transaction-api.svg?style=flat-square)](http://hits.dwyl.com/ricardoltt/transaction-api)</div>
 
