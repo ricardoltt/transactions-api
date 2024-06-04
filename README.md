@@ -82,10 +82,10 @@ npm test
 ```
 
 <p align="center">
-  Feito com ❤️ por <a href="https://github.com/ricardoltt">Ricardo</a>
+  Feito com ❤️</a>
 </p>
 
-<p align="center">
+<div align="center">
   <a target=”_blank” href="https://www.linkedin.com/in/ricardoltt">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
@@ -95,5 +95,5 @@ npm test
   <a target=”_blank” href="https://github.com/ricardoltt">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</p>
+</div>
 
