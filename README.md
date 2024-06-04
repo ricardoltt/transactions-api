@@ -1,6 +1,7 @@
-# Projeto de Estudos: API REST com Fastify, Knex e TypeScript
+# API REST com Fastify, Knex e TypeScript
+[![HitCount](https://hits.dwyl.com/ricardoltt/transaction-api.svg?style=flat-square)](http://hits.dwyl.com/ricardoltt/transaction-api)
 
-Este é um projeto de estudos que consiste na criação de uma API REST utilizando Fastify, Knex, Zod, TypeScript e outras ferramentas auxiliares. O objetivo é praticar o desenvolvimento de APIs robustas e eficientes, bem como a escrita de testes automatizados para garantir a qualidade do código.
+Este é um projeto de estudos que consiste na criação de uma API REST utilizando Fastify, Knex, Zod, TypeScript e outras ferramentas auxiliares. O objetivo é praticar o desenvolvimento de APIs robustas e eficientes, bem como a escrita de testes automatizados para garantir a qualidade do código. Projeto desenvolvido durante o segundo módulo do Ignite da [🚀 Rocketseat](https://rocketseat.com.br).
 
 ## Tecnologias Utilizadas
 
@@ -95,6 +96,4 @@ npm test
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
-<div align="center">[![HitCount](https://hits.dwyl.com/ricardoltt/transaction-api.svg?style=flat-square)](http://hits.dwyl.com/ricardoltt/transaction-api)</div>
 
